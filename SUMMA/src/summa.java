@@ -2,7 +2,8 @@
 class summa {
 public static void main (String args[]) {
 	int i = 35;
-	int k = 35;
+	int k;
+	k = i;
 	k = count(k);
 	
 	System.out.print("Xage - ");
